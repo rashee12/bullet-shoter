@@ -1,1 +1,2 @@
-# bullet-shoter
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
